@@ -1,3 +1,4 @@
+[![Python](https://i.blogs.es/46244e/python/1366_521.jpg)](https://www.python.org/)
 # Instructions:
 The practices are organized as follows:
 
